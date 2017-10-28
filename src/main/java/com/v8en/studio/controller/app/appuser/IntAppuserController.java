@@ -64,9 +64,7 @@ public class IntAppuserController extends BaseController {
 		}
 		return AppUtil.returnObject(new PageData(), map);
 	}
-	
 
-	
 }
 	
  
